@@ -62,7 +62,7 @@ ai-data-analyst/
 
 ### Prerequisites
 - Python 3.10+
-- A free Groq API key from [console.groq.com](https://console.groq.com)
+- Groq API key from [console.groq.com](https://console.groq.com)
 
 ### 1. Clone the repo
 ```bash
@@ -113,7 +113,7 @@ Try these with the included `sample_data/sample.csv`:
 
 ---
 
-## Deploy to Streamlit Cloud (Free)
+## Deploy to Streamlit Cloud
 
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in
@@ -136,6 +136,6 @@ GROQ_API_KEY = "your_key_here"
 
 ---
 
-**Contributor
+## Contributor
 
 Aarnav Singhal
