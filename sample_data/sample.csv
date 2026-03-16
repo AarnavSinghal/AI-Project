@@ -1,0 +1,16 @@
+date,region,category,sales,units,profit
+2024-01-15,North,Electronics,4200,12,840
+2024-01-22,South,Clothing,1800,45,360
+2024-02-03,East,Electronics,5100,15,1020
+2024-02-14,West,Food,900,120,180
+2024-02-28,North,Clothing,2200,55,440
+2024-03-05,South,Electronics,3800,11,760
+2024-03-18,East,Food,1100,140,220
+2024-03-25,West,Electronics,6200,18,1240
+2024-04-02,North,Food,750,95,150
+2024-04-19,South,Clothing,3100,78,620
+2024-05-07,East,Clothing,2700,68,540
+2024-05-23,West,Food,1300,165,260
+2024-06-01,North,Electronics,7100,21,1420
+2024-06-15,South,Food,980,125,196
+2024-06-28,East,Electronics,4500,13,900
